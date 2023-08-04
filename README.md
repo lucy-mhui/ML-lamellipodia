@@ -11,7 +11,9 @@ We propose a Convolutional Neural Network-based approach widely used in medical 
 Average count from all five machine learning methods were comparable to average manual counts. Counts from machine learning methods consistently had lower variability compared to manual counts. U-Net surpasses other U-Net variants in detection accuracy (F1 score = 92.4%), however the difference was not significant. Compared to manual quantification, U-Net-derived lamellipodia counts showed a mean difference of 5.6.
 
 ## Conclusion
-Conclusion: We show the ability of U-Net to segment, detect, and quantify lamellipodia from SEM images of MDCK. Characterization of the impact of viral infections on the ultrastructure of target cells can not only improve understanding on virus-host interactions, but also lead to novel targets for antiviral strategies. The pre-trained model and annotated dataset are released to support further research.
+We show the ability of U-Net to segment, detect, and quantify lamellipodia from SEM images of MDCK. Characterization of the impact of viral infections on the ultrastructure of target cells can not only improve understanding on virus-host interactions, but also lead to novel targets for antiviral strategies. The pre-trained model and annotated dataset are released to support further research.
+
+## Using the code
 
 ## Sources
 * https://github.com/bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets
