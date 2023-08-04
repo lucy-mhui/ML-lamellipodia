@@ -15,7 +15,7 @@ We show the ability of U-Net to segment, detect, and quantify lamellipodia from 
 
 ## Using the code
 
-## Sources
+## Resources
 * https://github.com/bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets
 * https://arxiv.org/pdf/1807.10165v1.pdf
 * https://scikit-image.org/docs/dev/auto_examples/applications/plot_human_mitosis.html
